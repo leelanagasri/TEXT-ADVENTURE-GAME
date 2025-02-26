@@ -1,9 +1,7 @@
 
-package Demo;
-
 import java.util.*;
 
-public class third{
+public class Main{
 	public static int health = 100;
 	public static int score = 0;
 	public static void startGame() {
